@@ -32,7 +32,3 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000).
-
-## Status
-
-Single showcase piece cycling through six words, palettes, and shapes. Build log lives in commit history.
